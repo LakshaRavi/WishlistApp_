@@ -1,2 +1,2 @@
 # WishlistApp
-This is the official project for the 5th sem ,version 2.0.
+This project demonstrates how to submit wishlist data to Supabase and perform Git conflict resolution.
