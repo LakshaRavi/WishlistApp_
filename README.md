@@ -1,2 +1,2 @@
 # WishlistApp
-This is the official project for the semester, version 1.0.
+This is a minimal wishlist app demo for the Git fork → branch → PR workflow used in our assignment.
