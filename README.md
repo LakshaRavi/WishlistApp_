@@ -1,2 +1,2 @@
 # WishlistApp
-This project demonstrates how to submit wishlist data to Supabase and perform Git conflict resolution.
+This is the official project for the semester, version 1.0.
